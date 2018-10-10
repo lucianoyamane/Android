@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="title_activity_login">Login</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_login">Login</string>
+    <string name="prompt_password">Senha</string>
+    <string name="action_sign_in"><b>Login</b></string>
+    <string name="action_sign_in_short">Login</string>
+    <string name="login_progress_signing_in">Autenticando&#8230;</string>
+    <string name="error_field_required">Este campo é obrigatório</string>
+    <string name="authentication_is_mandatory">A identificação é necessária, por favor identifique-se utilizando o botão na barra superior</string>
+
+</resources>

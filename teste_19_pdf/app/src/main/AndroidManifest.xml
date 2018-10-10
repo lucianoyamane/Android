@@ -1,0 +1,13 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.luciano.teste_19_pdf">
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="21"/>
+
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher_inspira_k"
+        android:label="teste"/>
+</manifest>
