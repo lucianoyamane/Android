@@ -5,7 +5,7 @@ android {
     buildToolsVersion '25.0.2'
     defaultConfig {
         applicationId "com.example.luciano.teste_19_pdf"
-        minSdkVersion 19
+        minSdkVersion 16
         targetSdkVersion 19
         versionCode 1
         versionName "1.0"
@@ -31,4 +31,5 @@ android {
 dependencies {
 //    implementation fileTree(dir: 'libs', include: ['*.jar'])
     compile 'com.android.support:support-v4:19.0.0'
+    compile 'com.github.barteksc:android-pdf-viewer:2.8.2'
 }
